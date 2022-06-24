@@ -1,0 +1,9 @@
+{
+  "id": "com.cosmos.team3.app.service",
+  "description": "HelloWorld Service",
+  "services": [
+    {
+      "name": "com.cosmos.team3.app.service"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "com.cosmos.team3.app",
+  "version": "1.0.0",
+  "vendor": "My Company",
+  "type": "web",
+  "main": "index.html",
+  "title": "Service Demo",
+  "icon": "icon.png",
+  "requiredPermissions": [
+    "time.query",
+    "activity.operation",
+    "all",
+    "notification.operation"
+  ]
+}
